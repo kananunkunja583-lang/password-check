@@ -1,0 +1,22 @@
+body {
+background: black;
+color: #00ff9c;
+font-family: monospace;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.box {
+border: 1px solid #00ff9c;
+padding: 30px;
+}
+
+input, button {
+padding: 10px;
+margin: 10px;
+background: black;
+color: #00ff9c;
+border: 1px solid #00ff9c;
+}
